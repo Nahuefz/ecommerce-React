@@ -27,7 +27,7 @@ function Navbar() {
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="httpx://www.google.com">Contact us</a>
+            <a class="nav-link" href="http://www.google.com">Contact us</a>
           </li>
           <li>
             <FaCartPlus />
